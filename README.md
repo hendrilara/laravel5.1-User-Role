@@ -1,5 +1,6 @@
-Managemen User Role
--administrator
--customer
-Instal => composer install
-	   => php artisan db:seed
+Managemen User Role <br>
+-administrator <br>
+-customer <br>
+Install <br>
+=> composer install<br>
+=> php artisan db:seed
